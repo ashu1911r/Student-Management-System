@@ -1,2 +1,13 @@
-# Student-Management-System
-Python Project for managing student records using JSON file storage
+Student Management System
+
+A Python-based application to manage student records.
+
+Features:
+- Add Student
+- View Students
+- Search Student
+- Save Data
+
+Technologies Used:
+- Python
+- JSON File Handling
